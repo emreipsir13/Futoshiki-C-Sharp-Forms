@@ -1,0 +1,10 @@
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\bin\Debug\sayıoyunu.exe.config
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\bin\Debug\sayıoyunu.exe
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\bin\Debug\sayıoyunu.pdb
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.Form1.resources
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.Properties.Resources.resources
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.exe
+C:\Users\Emre\source\repos\sayıoyunu\sayıoyunu\obj\Debug\sayıoyunu.pdb
